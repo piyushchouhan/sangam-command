@@ -1,0 +1,158 @@
+{
+  "type": "Sentinel2OverlayManifest",
+  "source_crs": "EPSG:32644",
+  "overlay_crs": "EPSG:3857",
+  "coordinate_crs": "EPSG:4326",
+  "reference_date": "2025-01-27",
+  "attribution": "Contains modified Copernicus Sentinel data 2024\u20132025",
+  "method": "GDAL reprojection, bilinear resampling; RGB visualization, not surface reflectance indices. Bounds are transformed EPSG:3857 pixel edges.",
+  "images": [
+    {
+      "date": "2024-10-19",
+      "url": "assets/sentinel2/2024-10-19.png",
+      "bounds": [
+        [
+          25.389173108862,
+          81.81935697899993
+        ],
+        [
+          25.475820104693266,
+          81.95077052885208
+        ]
+      ],
+      "bbox": [
+        81.81935697899993,
+        25.389173108862,
+        81.95077052885208,
+        25.475820104693266
+      ],
+      "width": 1319,
+      "height": 963,
+      "source_resolution_m": 10,
+      "source": "Copernicus Sentinel-2 RGB 2024-10-19"
+    },
+    {
+      "date": "2025-01-22",
+      "url": "assets/sentinel2/2025-01-22.png",
+      "bounds": [
+        [
+          25.389173108862,
+          81.81935697899993
+        ],
+        [
+          25.475820104693266,
+          81.95077052885208
+        ]
+      ],
+      "bbox": [
+        81.81935697899993,
+        25.389173108862,
+        81.95077052885208,
+        25.475820104693266
+      ],
+      "width": 1319,
+      "height": 963,
+      "source_resolution_m": 10,
+      "source": "Copernicus Sentinel-2 RGB 2025-01-22"
+    },
+    {
+      "date": "2025-01-27",
+      "url": "assets/sentinel2/2025-01-27.png",
+      "bounds": [
+        [
+          25.389180987507313,
+          81.81935697899993
+        ],
+        [
+          25.529997393443043,
+          81.95117143339245
+        ]
+      ],
+      "bbox": [
+        81.81935697899993,
+        25.389180987507313,
+        81.95117143339245,
+        25.529997393443043
+      ],
+      "width": 1321,
+      "height": 1563,
+      "source_resolution_m": 10,
+      "source": "Copernicus Sentinel-2 RGB 2025-01-27",
+      "scene_id": "S2B_44RNP_20250127_0_L2A",
+      "source_url": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/44/R/NP/2025/1/S2B_44RNP_20250127_0_L2A/TCI.tif",
+      "coverage_note": "Extended 6 km north using the same-date public Sentinel-2 scene; other dates retain the supplied smaller extent."
+    },
+    {
+      "date": "2025-02-01",
+      "url": "assets/sentinel2/2025-02-01.png",
+      "bounds": [
+        [
+          25.389173108862,
+          81.81935697899993
+        ],
+        [
+          25.475820104693266,
+          81.95077052885208
+        ]
+      ],
+      "bbox": [
+        81.81935697899993,
+        25.389173108862,
+        81.95077052885208,
+        25.475820104693266
+      ],
+      "width": 1319,
+      "height": 963,
+      "source_resolution_m": 10,
+      "source": "Copernicus Sentinel-2 RGB 2025-02-01"
+    },
+    {
+      "date": "2025-02-11",
+      "url": "assets/sentinel2/2025-02-11.png",
+      "bounds": [
+        [
+          25.389173108862,
+          81.81935697899993
+        ],
+        [
+          25.475820104693266,
+          81.95077052885208
+        ]
+      ],
+      "bbox": [
+        81.81935697899993,
+        25.389173108862,
+        81.95077052885208,
+        25.475820104693266
+      ],
+      "width": 1319,
+      "height": 963,
+      "source_resolution_m": 10,
+      "source": "Copernicus Sentinel-2 RGB 2025-02-11"
+    },
+    {
+      "date": "2025-02-21",
+      "url": "assets/sentinel2/2025-02-21.png",
+      "bounds": [
+        [
+          25.389173108862,
+          81.81935697899993
+        ],
+        [
+          25.475820104693266,
+          81.95077052885208
+        ]
+      ],
+      "bbox": [
+        81.81935697899993,
+        25.389173108862,
+        81.95077052885208,
+        25.475820104693266
+      ],
+      "width": 1319,
+      "height": 963,
+      "source_resolution_m": 10,
+      "source": "Copernicus Sentinel-2 RGB 2025-02-21"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sector_area_ha": 2097.711,
+  "reported_event_area_ha": 4000,
+  "event_extent_complete": false,
+  "sector_overlap_m2": 0.0,
+  "sector_water_overlap_m2": 0.0,
+  "station_railway_checks": [
+    {
+      "id": "station-naini",
+      "nearest_railway_m": 15.57
+    },
+    {
+      "id": "station-prayag",
+      "nearest_railway_m": 20.83
+    },
+    {
+      "id": "station-rambagh",
+      "nearest_railway_m": 0.0
+    },
+    {
+      "id": "station-subedarganj",
+      "nearest_railway_m": 14.01
+    },
+    {
+      "id": "station-prayagraj",
+      "nearest_railway_m": 9.9
+    },
+    {
+      "id": "station-chheoki",
+      "nearest_railway_m": 22.81
+    },
+    {
+      "id": "station-sangam-station",
+      "nearest_railway_m": 38.14
+    },
+    {
+      "id": "station-jhunsi",
+      "nearest_railway_m": 7.54
+    },
+    {
+      "id": "station-phaphamau",
+      "nearest_railway_m": 6.02
+    }
+  ],
+  "station_old_image_position_error_m": null,
+  "old_new_sector_shift_m": null,
+  "comparison_limitation": "Old newspaper geometry has no geographic transform; numerical displacement would require the prohibited image registration."
+}

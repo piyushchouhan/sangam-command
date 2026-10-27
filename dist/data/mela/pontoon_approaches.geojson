@@ -1,0 +1,1675 @@
+{
+  "type": "FeatureCollection",
+  "name": "Visible pontoon approach roads",
+  "source_image": "prayagraj_sangam_2025-01-27.tif",
+  "rejected_traces": [],
+  "unresolved_approaches": [],
+  "features": [
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-001",
+      "properties": {
+        "id": "pontoon-approach-001",
+        "name": "West bank margin lane",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 1180.118,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88431221380685,
+            25.436617907997327
+          ],
+          [
+            81.88510774112476,
+            25.436613116827953
+          ],
+          [
+            81.88510246237811,
+            25.43589075866494
+          ],
+          [
+            81.88509718383436,
+            25.43516840042988
+          ],
+          [
+            81.88519134461542,
+            25.434445442981946
+          ],
+          [
+            81.88528550441058,
+            25.433722485433464
+          ],
+          [
+            81.88537966321988,
+            25.432999527784457
+          ],
+          [
+            81.88547316104476,
+            25.432186275224147
+          ],
+          [
+            81.88566543426137,
+            25.431282128337056
+          ],
+          [
+            81.88575826905338,
+            25.430378580667977
+          ],
+          [
+            81.8860499727175,
+            25.429473833708958
+          ],
+          [
+            81.88614346407661,
+            25.428660580530053
+          ],
+          [
+            81.88643251881534,
+            25.427394653407397
+          ],
+          [
+            81.8858339385952,
+            25.427127366766666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-002",
+      "properties": {
+        "id": "pontoon-approach-002",
+        "name": "Jhusi bank margin lane",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 830.011,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89026539018028,
+            25.43477597622986
+          ],
+          [
+            81.89035819239199,
+            25.433872426928822
+          ],
+          [
+            81.89025278148232,
+            25.433060377449657
+          ],
+          [
+            81.89004859838691,
+            25.432339224912724
+          ],
+          [
+            81.89004329119531,
+            25.431616867298917
+          ],
+          [
+            81.89003864757001,
+            25.43098480432772
+          ],
+          [
+            81.89013012269118,
+            25.42990066529391
+          ],
+          [
+            81.89042245597844,
+            25.42908620523356
+          ],
+          [
+            81.89051790861055,
+            25.42854383422936
+          ],
+          [
+            81.89060871462125,
+            25.427369399962636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-003",
+      "properties": {
+        "id": "pontoon-approach-003",
+        "name": "Jhusi upstream bank lane",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 1001.467,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88925377369726,
+            25.44597913368364
+          ],
+          [
+            81.88925045760806,
+            25.445527660923965
+          ],
+          [
+            81.88904559395554,
+            25.444716214038515
+          ],
+          [
+            81.88874062364695,
+            25.44381507393601
+          ],
+          [
+            81.8885377544803,
+            25.443274509787575
+          ],
+          [
+            81.88843234549412,
+            25.442462459920417
+          ],
+          [
+            81.88862461030959,
+            25.441558310564254
+          ],
+          [
+            81.88881554698911,
+            25.440473571670754
+          ],
+          [
+            81.88910526071294,
+            25.439297935929304
+          ],
+          [
+            81.88929884229174,
+            25.43857437485789
+          ],
+          [
+            81.89078649307429,
+            25.4380235689699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-004",
+      "properties": {
+        "id": "pontoon-approach-004",
+        "name": "Pontoon 07 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 219.106,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89088614867623,
+            25.451567747681555
+          ],
+          [
+            81.89078270848881,
+            25.45102658437776
+          ],
+          [
+            81.89037759189108,
+            25.45003575801705
+          ],
+          [
+            81.88997912084656,
+            25.44994787510928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-005",
+      "properties": {
+        "id": "pontoon-approach-005",
+        "name": "Pontoon 09 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 30.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88895211326243,
+            25.445529467118096
+          ],
+          [
+            81.88925045760806,
+            25.445527660923965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-006",
+      "properties": {
+        "id": "pontoon-approach-006",
+        "name": "Pontoon 10 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 31.623,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88824007801887,
+            25.443366608992065
+          ],
+          [
+            81.8885377544803,
+            25.443274509787575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-007",
+      "properties": {
+        "id": "pontoon-approach-007",
+        "name": "Pontoon 11 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 50.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88444858258518,
+            25.44167381541029
+          ],
+          [
+            81.88405277992848,
+            25.44194709437498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-008",
+      "properties": {
+        "id": "pontoon-approach-008",
+        "name": "Pontoon 11 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 40.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8884177710773,
+            25.44047597817246
+          ],
+          [
+            81.88881554698911,
+            25.440473571670754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-009",
+      "properties": {
+        "id": "pontoon-approach-009",
+        "name": "Pontoon 12 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 70.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88579854446473,
+            25.43588656299446
+          ],
+          [
+            81.88510246237811,
+            25.43589075866494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-010",
+      "properties": {
+        "id": "pontoon-approach-010",
+        "name": "Pontoon 13 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 70.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88579326177104,
+            25.43516420489523
+          ],
+          [
+            81.88509718383436,
+            25.43516840042988
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-011",
+      "properties": {
+        "id": "pontoon-approach-011",
+        "name": "Pontoon 14 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 70.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88588741838011,
+            25.434441247112083
+          ],
+          [
+            81.88519134461542,
+            25.434445442981946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-012",
+      "properties": {
+        "id": "pontoon-approach-012",
+        "name": "Pontoon 15 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 60.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88588213549967,
+            25.433718888888162
+          ],
+          [
+            81.88528550441058,
+            25.433722485433464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-013",
+      "properties": {
+        "id": "pontoon-approach-013",
+        "name": "Pontoon 16 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 60.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88597629073327,
+            25.432995930951872
+          ],
+          [
+            81.88537966321988,
+            25.432999527784457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-014",
+      "properties": {
+        "id": "pontoon-approach-014",
+        "name": "Pontoon 17 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 60.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88606978453801,
+            25.432182678118863
+          ],
+          [
+            81.88547316104476,
+            25.432186275224147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-015",
+      "properties": {
+        "id": "pontoon-approach-015",
+        "name": "Pontoon 18 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 50.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88616261677738,
+            25.431279130366033
+          ],
+          [
+            81.88566543426137,
+            25.431282128337056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-016",
+      "properties": {
+        "id": "pontoon-approach-016",
+        "name": "Pontoon 19 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 50.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88625544784915,
+            25.43037558248189
+          ],
+          [
+            81.88575826905338,
+            25.430378580667977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-017",
+      "properties": {
+        "id": "pontoon-approach-017",
+        "name": "Pontoon 20 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 30.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8863482777534,
+            25.42947203446646
+          ],
+          [
+            81.8860499727175,
+            25.429473833708958
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-018",
+      "properties": {
+        "id": "pontoon-approach-018",
+        "name": "Pontoon 21 western approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 30.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88644176710282,
+            25.428658781151277
+          ],
+          [
+            81.88614346407661,
+            25.428660580530053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-019",
+      "properties": {
+        "id": "pontoon-approach-019",
+        "name": "Pontoon 13 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 30.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89005987684642,
+            25.433874234602815
+          ],
+          [
+            81.89035819239199,
+            25.433872426928822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-020",
+      "properties": {
+        "id": "pontoon-approach-020",
+        "name": "Pontoon 14 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 30.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88995446792784,
+            25.433062184855956
+          ],
+          [
+            81.89025278148232,
+            25.433060377449657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-021",
+      "properties": {
+        "id": "pontoon-approach-021",
+        "name": "Pontoon 15 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 20.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8898497238599,
+            25.432340429609393
+          ],
+          [
+            81.89004859838691,
+            25.432339224912724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-022",
+      "properties": {
+        "id": "pontoon-approach-022",
+        "name": "Pontoon 16 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 30.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8897449811782,
+            25.431618674184488
+          ],
+          [
+            81.89004329119531,
+            25.431616867298917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-023",
+      "properties": {
+        "id": "pontoon-approach-023",
+        "name": "Pontoon 17 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 30.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88974033910876,
+            25.430986611162105
+          ],
+          [
+            81.89003864757001,
+            25.43098480432772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-024",
+      "properties": {
+        "id": "pontoon-approach-024",
+        "name": "Pontoon 18 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 30.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88983181690658,
+            25.42990247224236
+          ],
+          [
+            81.89013012269118,
+            25.42990066529391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-025",
+      "properties": {
+        "id": "pontoon-approach-025",
+        "name": "Pontoon 19 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 40.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89002471763114,
+            25.42908861508316
+          ],
+          [
+            81.89042245597844,
+            25.42908620523356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-026",
+      "properties": {
+        "id": "pontoon-approach-026",
+        "name": "Pontoon 20 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 70.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89021695251938,
+            25.42818446290786
+          ],
+          [
+            81.89051525404315,
+            25.4281826552911
+          ],
+          [
+            81.89051790861055,
+            25.42854383422936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-027",
+      "properties": {
+        "id": "pontoon-approach-027",
+        "name": "Pontoon 21 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 30.0,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8903104151071,
+            25.427371207715357
+          ],
+          [
+            81.89060871462125,
+            25.427369399962636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-028",
+      "properties": {
+        "id": "pontoon-approach-028",
+        "name": "Pontoon 22 Arail approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 476.906,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8919024353711,
+            25.4139973263213
+          ],
+          [
+            81.89060198781668,
+            25.41292162410511
+          ],
+          [
+            81.88950172899935,
+            25.41202529647513
+          ],
+          [
+            81.88931282188936,
+            25.41338092388697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-029",
+      "properties": {
+        "id": "pontoon-approach-029",
+        "name": "Pontoon 22 Jhusi approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 251.583,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89831027629614,
+            25.420008323370734
+          ],
+          [
+            81.89931057489238,
+            25.42081489421478
+          ],
+          [
+            81.90040696092622,
+            25.421169375766567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-030",
+      "properties": {
+        "id": "pontoon-approach-030",
+        "name": "Pontoon 23 Arail approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "low",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 239.443,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89554770801699,
+            25.409460218761737
+          ],
+          [
+            81.89474969626109,
+            25.409103882194163
+          ],
+          [
+            81.89355069129839,
+            25.408298484235758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-031",
+      "properties": {
+        "id": "pontoon-approach-031",
+        "name": "Pontoon 24 Arail approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "low",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 352.295,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89791502781378,
+            25.406917409896227
+          ],
+          [
+            81.8965178610794,
+            25.406203544919485
+          ],
+          [
+            81.8951173786013,
+            25.405038191624868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-032",
+      "properties": {
+        "id": "pontoon-approach-032",
+        "name": "Pontoon 25 Arail approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 535.384,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90136305455243,
+            25.402652264122846
+          ],
+          [
+            81.89946618019572,
+            25.401580292771463
+          ],
+          [
+            81.8979683193721,
+            25.400686457931304
+          ],
+          [
+            81.89726509558949,
+            25.399697461737535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-033",
+      "properties": {
+        "id": "pontoon-approach-033",
+        "name": "Pontoon 26 Arail approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 333.042,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90560476516016,
+            25.398201556896073
+          ],
+          [
+            81.90430639299652,
+            25.397396856628372
+          ],
+          [
+            81.90280922265762,
+            25.39659336497719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-034",
+      "properties": {
+        "id": "pontoon-approach-034",
+        "name": "Pontoon 26 eastern approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "low",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 58.31,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.91178982255325,
+            25.401052898578094
+          ],
+          [
+            81.91129073262209,
+            25.40078509619234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-035",
+      "properties": {
+        "id": "pontoon-approach-035",
+        "name": "Pontoon 01 Jhusi continuation",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 430.587,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90387070915048,
+            25.47225696645108
+          ],
+          [
+            81.905359373861,
+            25.47179629977617
+          ],
+          [
+            81.90704628719666,
+            25.471244095028187
+          ],
+          [
+            81.90794015005406,
+            25.471057971614414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-036",
+      "properties": {
+        "id": "pontoon-approach-036",
+        "name": "Pontoon 02 Jhusi continuation",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 381.982,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90283152332465,
+            25.46630369060593
+          ],
+          [
+            81.90412186593045,
+            25.465934555445845
+          ],
+          [
+            81.90630264172081,
+            25.46492782716307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-037",
+      "properties": {
+        "id": "pontoon-approach-037",
+        "name": "Pontoon 03 Jhusi continuation",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 396.329,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90090873989043,
+            25.461890895287695
+          ],
+          [
+            81.90179917952389,
+            25.46125334041111
+          ],
+          [
+            81.90437773186785,
+            25.460244197370333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-038",
+      "properties": {
+        "id": "pontoon-approach-038",
+        "name": "Pontoon 04 Jhusi continuation",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 418.327,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90050619027986,
+            25.46126127789296
+          ],
+          [
+            81.90159487508052,
+            25.46053220982053
+          ],
+          [
+            81.90417341407584,
+            25.459523070643847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-039",
+      "properties": {
+        "id": "pontoon-approach-039",
+        "name": "Pontoon 05 Jhusi continuation",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 582.212,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89679736263531,
+            25.45740115634203
+          ],
+          [
+            81.89937654964801,
+            25.456482395912115
+          ],
+          [
+            81.9022547374524,
+            25.455652051946462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-040",
+      "properties": {
+        "id": "pontoon-approach-040",
+        "name": "Pontoon 27 western approach lane",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 1131.783,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89143737476846,
+            25.485877740314915
+          ],
+          [
+            81.8886505711977,
+            25.485714052748804
+          ],
+          [
+            81.88586377346296,
+            25.485550312028487
+          ],
+          [
+            81.88267971683801,
+            25.485479207266213
+          ],
+          [
+            81.88019202979766,
+            25.48540385663278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-041",
+      "properties": {
+        "id": "pontoon-approach-041",
+        "name": "Pontoon 27 Jhusi continuation",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 455.453,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90158848517379,
+            25.48635748925133
+          ],
+          [
+            81.90278226109484,
+            25.48635014722724
+          ],
+          [
+            81.90457089649364,
+            25.48606823495645
+          ],
+          [
+            81.90606108059684,
+            25.48578814474702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-042",
+      "properties": {
+        "id": "pontoon-approach-042",
+        "name": "Pontoon 01 sandbar approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "low",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 671.974,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90119310182848,
+            25.47335701086903
+          ],
+          [
+            81.89801205082678,
+            25.473647406265957
+          ],
+          [
+            81.89453190035265,
+            25.4738492584403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-043",
+      "properties": {
+        "id": "pontoon-approach-043",
+        "name": "Pontoon 02 sandbar approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "low",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 431.766,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89916474805119,
+            25.468132162891884
+          ],
+          [
+            81.8969731378587,
+            25.467694082535793
+          ],
+          [
+            81.8949804741492,
+            25.467254756075373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-044",
+      "properties": {
+        "id": "pontoon-approach-044",
+        "name": "Pontoon 03 sandbar approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "low",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 689.19,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89604516711924,
+            25.463275137862432
+          ],
+          [
+            81.89564330603353,
+            25.462735800870373
+          ],
+          [
+            81.8935445980338,
+            25.461394116722467
+          ],
+          [
+            81.89184643834678,
+            25.460411161878756
+          ],
+          [
+            81.890449342476,
+            25.459787554381478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-045",
+      "properties": {
+        "id": "pontoon-approach-045",
+        "name": "Pontoon 04 sandbar approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "low",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 617.079,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89564330603353,
+            25.462735800870373
+          ],
+          [
+            81.8935445980338,
+            25.461394116722467
+          ],
+          [
+            81.89184643834678,
+            25.460411161878756
+          ],
+          [
+            81.890449342476,
+            25.459787554381478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-approach-046",
+      "properties": {
+        "id": "pontoon-approach-046",
+        "name": "Pontoon 06 sand tongue approach",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "low",
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "low",
+        "length_m": 681.689,
+        "water_intersection_m": 0.0,
+        "reference_date": "2025-01-27",
+        "note": "Manually traced visible bank or camp approach. 10 m RGB does not establish legal access or bridge opening status."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88702865474849,
+            25.454480653868462
+          ],
+          [
+            81.88813525598192,
+            25.456189635130972
+          ],
+          [
+            81.88944146925517,
+            25.45798769621809
+          ],
+          [
+            81.890449342476,
+            25.459787554381478
+          ]
+        ]
+      }
+    }
+  ]
+}

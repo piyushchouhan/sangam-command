@@ -1,0 +1,755 @@
+{
+  "statistics": {
+    "parking": {
+      "totalHectares": 1850,
+      "currentHectares": 1103.29,
+      "newHectares": 746.71
+    },
+    "pontoonBridges": {
+      "2019": 22,
+      "2025": 30
+    },
+    "note": "Source figures are historical planning figures, not live occupancy or confirmed current inventory."
+  },
+  "features": [
+    {
+      "id": "sector-01",
+      "name": "Sector 1",
+      "type": "sector",
+      "number": 1,
+      "zone": "City bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-02",
+      "name": "Sector 2",
+      "type": "sector",
+      "number": 2,
+      "zone": "City bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-03",
+      "name": "Sector 3",
+      "type": "sector",
+      "number": 3,
+      "zone": "City bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-04",
+      "name": "Sector 4",
+      "type": "sector",
+      "number": 4,
+      "zone": "City bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-05",
+      "name": "Sector 5",
+      "type": "sector",
+      "number": 5,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-06",
+      "name": "Sector 6",
+      "type": "sector",
+      "number": 6,
+      "zone": "City bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-07",
+      "name": "Sector 7",
+      "type": "sector",
+      "number": 7,
+      "zone": "City bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-08",
+      "name": "Sector 8",
+      "type": "sector",
+      "number": 8,
+      "zone": "City bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-09",
+      "name": "Sector 9",
+      "type": "sector",
+      "number": 9,
+      "zone": "City bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-10",
+      "name": "Sector 10",
+      "type": "sector",
+      "number": 10,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-11",
+      "name": "Sector 11",
+      "type": "sector",
+      "number": 11,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-12",
+      "name": "Sector 12",
+      "type": "sector",
+      "number": 12,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-13",
+      "name": "Sector 13",
+      "type": "sector",
+      "number": 13,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-14",
+      "name": "Sector 14",
+      "type": "sector",
+      "number": 14,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-15",
+      "name": "Sector 15",
+      "type": "sector",
+      "number": 15,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-16",
+      "name": "Sector 16",
+      "type": "sector",
+      "number": 16,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-17",
+      "name": "Sector 17",
+      "type": "sector",
+      "number": 17,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-18",
+      "name": "Sector 18",
+      "type": "sector",
+      "number": 18,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-19",
+      "name": "Sector 19",
+      "type": "sector",
+      "number": 19,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-20",
+      "name": "Sector 20",
+      "type": "sector",
+      "number": 20,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-21",
+      "name": "Sector 21",
+      "type": "sector",
+      "number": 21,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-22",
+      "name": "Sector 22",
+      "type": "sector",
+      "number": 22,
+      "zone": "Jhunsi bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-23",
+      "name": "Sector 23",
+      "type": "sector",
+      "number": 23,
+      "zone": "Arail bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-24",
+      "name": "Sector 24",
+      "type": "sector",
+      "number": 24,
+      "zone": "Arail bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "sector-25",
+      "name": "Sector 25",
+      "type": "sector",
+      "number": 25,
+      "zone": "Arail bank",
+      "description": "Sector number is readable in the source. Boundary is a hand-traced approximation; verify against an official survey before operational use."
+    },
+    {
+      "id": "station-phaphamau",
+      "name": "Phaphamau Junction",
+      "type": "station",
+      "description": "Station shown in the source. Position is diagrammatic; service and access status are not supplied."
+    },
+    {
+      "id": "station-prayag",
+      "name": "Prayag Junction",
+      "type": "station",
+      "description": "Station shown in the source. Position is diagrammatic; service and access status are not supplied."
+    },
+    {
+      "id": "station-sangam-station",
+      "name": "Prayagraj Sangam",
+      "type": "station",
+      "description": "Station shown in the source. Position is diagrammatic; service and access status are not supplied."
+    },
+    {
+      "id": "station-rambagh",
+      "name": "Prayagraj Rambagh",
+      "type": "station",
+      "description": "Station shown in the source. Position is diagrammatic; service and access status are not supplied."
+    },
+    {
+      "id": "station-prayagraj",
+      "name": "Prayagraj Junction",
+      "type": "station",
+      "description": "Station shown in the source. Position is diagrammatic; service and access status are not supplied."
+    },
+    {
+      "id": "station-subedarganj",
+      "name": "Subedarganj Station",
+      "type": "station",
+      "description": "Station shown in the source. Position is diagrammatic; service and access status are not supplied."
+    },
+    {
+      "id": "station-jhunsi",
+      "name": "Jhunsi Station",
+      "type": "station",
+      "description": "Station shown in the source. Position is diagrammatic; service and access status are not supplied."
+    },
+    {
+      "id": "station-naini",
+      "name": "Naini Junction",
+      "type": "station",
+      "description": "Station shown in the source. Position is diagrammatic; service and access status are not supplied."
+    },
+    {
+      "id": "station-chheoki",
+      "name": "Chheoki Station",
+      "type": "station",
+      "description": "Station shown in the source. Position is diagrammatic; service and access status are not supplied."
+    },
+    {
+      "id": "landmark-nagvasuki",
+      "name": "Nagvasuki",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-beni",
+      "name": "Shri Beni Madhav",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-shankar",
+      "name": "Shankar Vimana Mandapam",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-hanuman",
+      "name": "Bade Hanuman Ji",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-mankameshwar",
+      "name": "Mankameshwar",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-lankeshwar",
+      "name": "Lankeshwar",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-samudra",
+      "name": "Samudra Koop",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-aadi",
+      "name": "Aadi Veni Mahadev",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-shankh",
+      "name": "Shankh Madhav",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-chakra",
+      "name": "Chakra Madhav",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-someshwar",
+      "name": "Someshwar Mahadev",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "landmark-gangeshwar",
+      "name": "Gangeshwar Mahadev",
+      "type": "landmark",
+      "description": "Named landmark transcribed from the source map; spelling retained as printed."
+    },
+    {
+      "id": "approach-lucknow",
+      "name": "Lucknow side",
+      "type": "approach",
+      "description": "Regional approach direction shown in the source; not a verified entrance or evacuation route."
+    },
+    {
+      "id": "approach-kanpur",
+      "name": "Kanpur side",
+      "type": "approach",
+      "description": "Regional approach direction shown in the source; not a verified entrance or evacuation route."
+    },
+    {
+      "id": "approach-jaunpur",
+      "name": "Jaunpur side",
+      "type": "approach",
+      "description": "Regional approach direction shown in the source; not a verified entrance or evacuation route."
+    },
+    {
+      "id": "approach-varanasi",
+      "name": "Varanasi side",
+      "type": "approach",
+      "description": "Regional approach direction shown in the source; not a verified entrance or evacuation route."
+    },
+    {
+      "id": "approach-chitrakoot",
+      "name": "Chitrakoot side",
+      "type": "approach",
+      "description": "Regional approach direction shown in the source; not a verified entrance or evacuation route."
+    },
+    {
+      "id": "approach-mirzapur",
+      "name": "Mirzapur side",
+      "type": "approach",
+      "description": "Regional approach direction shown in the source; not a verified entrance or evacuation route."
+    },
+    {
+      "id": "locality-bela",
+      "name": "Bela Sailabi",
+      "type": "locality",
+      "description": "Small place or road label in the source. Transcription requires confirmation."
+    },
+    {
+      "id": "locality-hetapatti",
+      "name": "Hetapatti",
+      "type": "locality",
+      "description": "Small place or road label in the source. Transcription requires confirmation."
+    },
+    {
+      "id": "locality-sihori",
+      "name": "Sihori Uperhar",
+      "type": "locality",
+      "description": "Small place or road label in the source. Transcription requires confirmation."
+    },
+    {
+      "id": "locality-ibrahimpur",
+      "name": "Ibrahimpur Uperhar",
+      "type": "locality",
+      "description": "Small place or road label in the source. Transcription requires confirmation."
+    },
+    {
+      "id": "locality-garapur",
+      "name": "Garapur Road",
+      "type": "locality",
+      "description": "Small place or road label in the source. Transcription requires confirmation."
+    },
+    {
+      "id": "ganga",
+      "name": "Ganga River",
+      "type": "water",
+      "description": "River course traced from the source; water boundaries vary."
+    },
+    {
+      "id": "yamuna",
+      "name": "Yamuna River",
+      "type": "water",
+      "description": "River course traced from the source; water boundaries vary."
+    },
+    {
+      "id": "sangam",
+      "name": "Sangam Nose",
+      "type": "water",
+      "description": "Confluence label as shown on the source map."
+    },
+    {
+      "id": "parking-phaphamau",
+      "name": "Phaphamau parking summary",
+      "type": "parking",
+      "description": "Regional summary, not a location for an individual parking lot.",
+      "currentLots": 14,
+      "currentHectares": 281.84,
+      "newLots": 3,
+      "newHectares": 164.38
+    },
+    {
+      "id": "parking-arail",
+      "name": "Arail parking summary",
+      "type": "parking",
+      "description": "Regional summary, not a location for an individual parking lot.",
+      "currentLots": 15,
+      "currentHectares": 270.94,
+      "newLots": 11,
+      "newHectares": 178.11
+    },
+    {
+      "id": "crossing-01",
+      "name": "Crossing trace 01",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-02",
+      "name": "Crossing trace 02",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-03",
+      "name": "Crossing trace 03",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-04",
+      "name": "Crossing trace 04",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-05",
+      "name": "Crossing trace 05",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-06",
+      "name": "Crossing trace 06",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-07",
+      "name": "Crossing trace 07",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-08",
+      "name": "Crossing trace 08",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-09",
+      "name": "Crossing trace 09",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-10",
+      "name": "Crossing trace 10",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-11",
+      "name": "Crossing trace 11",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-12",
+      "name": "Crossing trace 12",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "crossing-13",
+      "name": "Crossing trace 13",
+      "type": "crossing",
+      "description": "Visible crossing alignment only. The source does not establish its official name, type, width, capacity, direction, or current availability."
+    },
+    {
+      "id": "parking-area-01",
+      "name": "Parking footprint P01",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P01 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-02",
+      "name": "Parking footprint P02",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P02 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-03",
+      "name": "Parking footprint P03",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P03 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-04",
+      "name": "Parking footprint P04",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P04 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-05",
+      "name": "Parking footprint P05",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P05 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-06",
+      "name": "Parking footprint P06",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P06 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-07",
+      "name": "Parking footprint P07",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P07 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-08",
+      "name": "Parking footprint P08",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P08 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-09",
+      "name": "Parking footprint P09",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P09 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-10",
+      "name": "Parking footprint P10",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P10 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-11",
+      "name": "Parking footprint P11",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P11 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-12",
+      "name": "Parking footprint P12",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P12 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-13",
+      "name": "Parking footprint P13",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P13 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-14",
+      "name": "Parking footprint P14",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P14 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-15",
+      "name": "Parking footprint P15",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P15 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-16",
+      "name": "Parking footprint P16",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P16 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-17",
+      "name": "Parking footprint P17",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P17 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-18",
+      "name": "Parking footprint P18",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P18 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-19",
+      "name": "Parking footprint P19",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P19 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-20",
+      "name": "Parking footprint P20",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P20 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-21",
+      "name": "Parking footprint P21",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P21 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-22",
+      "name": "Parking footprint P22",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P22 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-23",
+      "name": "Parking footprint P23",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P23 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-24",
+      "name": "Parking footprint P24",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P24 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-25",
+      "name": "Parking footprint P25",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P25 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-26",
+      "name": "Parking footprint P26",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P26 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-27",
+      "name": "Parking footprint P27",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P27 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-28",
+      "name": "Parking footprint P28",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P28 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-29",
+      "name": "Parking footprint P29",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P29 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-30",
+      "name": "Parking footprint P30",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P30 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-31",
+      "name": "Parking footprint P31",
+      "type": "parking_area",
+      "parkingClass": "new",
+      "description": "Approximate envelope of an unnamed new parking-colour patch in the source. P31 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-32",
+      "name": "Parking footprint P32",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P32 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    },
+    {
+      "id": "parking-area-33",
+      "name": "Parking footprint P33",
+      "type": "parking_area",
+      "parkingClass": "existing",
+      "description": "Approximate envelope of an unnamed existing parking-colour patch in the source. P33 is a tracing reference, not an official lot number. This footprint does not establish lot count, entrance, capacity or current availability."
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "type": "FeatureCollection",
+  "name": "police_normalized",
+  "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+  "licence": "ODbL-1.0",
+  "bbox": [
+    81.78,
+    25.33,
+    81.98,
+    25.53
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "id": "osm-node-2057646790",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8330585,
+          25.4372308
+        ]
+      },
+      "properties": {
+        "id": "osm-node-2057646790",
+        "name": "Chowk Police Station",
+        "osm_type": "node",
+        "osm_id": 2057646790,
+        "osm_url": "https://www.openstreetmap.org/node/2057646790",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "name": "Chowk Police Station"
+        },
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4896892925",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8432613,
+          25.4626401
+        ]
+      },
+      "properties": {
+        "id": "osm-node-4896892925",
+        "name": "Police Lines Allahabad",
+        "osm_type": "node",
+        "osm_id": 4896892925,
+        "osm_url": "https://www.openstreetmap.org/node/4896892925",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "name": "Police Lines Allahabad"
+        },
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-8882584207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.869752,
+          25.4577599
+        ]
+      },
+      "properties": {
+        "id": "osm-node-8882584207",
+        "name": "allapur police chauki",
+        "osm_type": "node",
+        "osm_id": 8882584207,
+        "osm_url": "https://www.openstreetmap.org/node/8882584207",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "name": "allapur police chauki"
+        },
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11694720440",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8691271,
+          25.4636452
+        ]
+      },
+      "properties": {
+        "id": "osm-node-11694720440",
+        "name": "Police Chowki",
+        "osm_type": "node",
+        "osm_id": 11694720440,
+        "osm_url": "https://www.openstreetmap.org/node/11694720440",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "name": "Police Chowki"
+        },
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12836584591",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9138292,
+          25.428884
+        ]
+      },
+      "properties": {
+        "id": "osm-node-12836584591",
+        "name": "Jhunsi Police Chowki",
+        "osm_type": "node",
+        "osm_id": 12836584591,
+        "osm_url": "https://www.openstreetmap.org/node/12836584591",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "name": "Jhunsi Police Chowki"
+        },
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13208177065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8833917,
+          25.4149914
+        ]
+      },
+      "properties": {
+        "id": "osm-node-13208177065",
+        "name": "Police Arail",
+        "osm_type": "node",
+        "osm_id": 13208177065,
+        "osm_url": "https://www.openstreetmap.org/node/13208177065",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "name": "Police Arail"
+        },
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13988407815",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8088139,
+          25.4404202
+        ]
+      },
+      "properties": {
+        "id": "osm-node-13988407815",
+        "name": "Police Chowki - Karbala",
+        "osm_type": "node",
+        "osm_id": 13988407815,
+        "osm_url": "https://www.openstreetmap.org/node/13988407815",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "addr:floor": "G",
+          "amenity": "police",
+          "check_date": "2026-07-04",
+          "level": "0",
+          "name": "Police Chowki - Karbala"
+        },
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14209330701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8508619,
+          25.4325724
+        ]
+      },
+      "properties": {
+        "id": "osm-node-14209330701",
+        "name": "पुलिस बूथ",
+        "osm_type": "node",
+        "osm_id": 14209330701,
+        "osm_url": "https://www.openstreetmap.org/node/14209330701",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "check_date": "2026-09-23",
+          "name": "पुलिस बूथ"
+        },
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14209330801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8508687,
+          25.4325706
+        ]
+      },
+      "properties": {
+        "id": "osm-node-14209330801",
+        "name": "पुलिस बूथ",
+        "osm_type": "node",
+        "osm_id": 14209330801,
+        "osm_url": "https://www.openstreetmap.org/node/14209330801",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "addr:street": "kydganj middle road",
+          "amenity": "police",
+          "check_date": "2026-09-23",
+          "name": "पुलिस बूथ"
+        },
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-657862446",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.83067857653622,
+          25.43136655
+        ]
+      },
+      "properties": {
+        "id": "osm-way-657862446",
+        "name": "Attarsuiya Police Station",
+        "osm_type": "way",
+        "osm_id": 657862446,
+        "osm_url": "https://www.openstreetmap.org/way/657862446",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "addr:city": "Allahabad",
+          "amenity": "police",
+          "building": "yes",
+          "name": "Attarsuiya Police Station",
+          "opening_hours": "24/7"
+        },
+        "node_ids": [
+          6161150745,
+          6161150746,
+          6161150747,
+          6161150748,
+          6161150745
+        ],
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-701826464",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.82843555006035,
+          25.45810195
+        ]
+      },
+      "properties": {
+        "id": "osm-way-701826464",
+        "name": "UP Police Mukhyalaya",
+        "osm_type": "way",
+        "osm_id": 701826464,
+        "osm_url": "https://www.openstreetmap.org/way/701826464",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "building": "yes",
+          "name": "UP Police Mukhyalaya"
+        },
+        "node_ids": [
+          6590915817,
+          9316186352,
+          9316186351,
+          9316186350,
+          9316186349,
+          9316186348,
+          9316186347,
+          9316186346,
+          9316186345,
+          6590915816,
+          6590915815,
+          9316186344,
+          9316186343,
+          9316186342,
+          9316186341,
+          9316186340,
+          9316186339,
+          9316186338,
+          9316186337,
+          6590915814,
+          6590915817
+        ],
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-807016294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.82777222871536,
+          25.4574599
+        ]
+      },
+      "properties": {
+        "id": "osm-way-807016294",
+        "name": "UP Rajkiya Railways Police office",
+        "osm_type": "way",
+        "osm_id": 807016294,
+        "osm_url": "https://www.openstreetmap.org/way/807016294",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "building": "yes",
+          "name": "UP Rajkiya Railways Police office"
+        },
+        "node_ids": [
+          7546617895,
+          7546617896,
+          7546617897,
+          9194475360,
+          7546617899,
+          7546617895
+        ],
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-870724925",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8290330275,
+          25.438794100000003
+        ]
+      },
+      "properties": {
+        "id": "osm-way-870724925",
+        "name": "Shahganj Police Station",
+        "osm_type": "way",
+        "osm_id": 870724925,
+        "osm_url": "https://www.openstreetmap.org/way/870724925",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "building": "yes",
+          "name": "Shahganj Police Station"
+        },
+        "node_ids": [
+          8111157654,
+          8111157655,
+          8111157656,
+          8111157659,
+          8111157654
+        ],
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1031981889",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8691551108339,
+          25.4052376
+        ]
+      },
+      "properties": {
+        "id": "osm-way-1031981889",
+        "name": "Police Chauki Jail Road",
+        "osm_type": "way",
+        "osm_id": 1031981889,
+        "osm_url": "https://www.openstreetmap.org/way/1031981889",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "building": "yes",
+          "name": "Police Chauki Jail Road",
+          "wheelchair": "yes"
+        },
+        "node_ids": [
+          9510359330,
+          9510359331,
+          9510359332,
+          9510359333,
+          9510359330
+        ],
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1329465355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.90528370000001,
+          25.4298361
+        ]
+      },
+      "properties": {
+        "id": "osm-way-1329465355",
+        "name": "Jhunsi Police Station",
+        "osm_type": "way",
+        "osm_id": 1329465355,
+        "osm_url": "https://www.openstreetmap.org/way/1329465355",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "police",
+          "building": "yes",
+          "name": "Jhunsi Police Station"
+        },
+        "node_ids": [
+          12300158887,
+          12300158888,
+          12300158889,
+          12300158890,
+          12300158887
+        ],
+        "type": "police"
+      }
+    }
+  ]
+}

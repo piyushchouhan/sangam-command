@@ -1,0 +1,1109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "mela-road-001",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.87581224421967,
+            25.49879420683572
+          ],
+          [
+            81.87844731703055,
+            25.491735190191893
+          ],
+          [
+            81.88067956577805,
+            25.48404645705515
+          ],
+          [
+            81.88261642018335,
+            25.476810956548587
+          ],
+          [
+            81.88166848253992,
+            25.46959278709103
+          ],
+          [
+            81.87973130271565,
+            25.46310292229441
+          ],
+          [
+            81.88208220142755,
+            25.458122396484168
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-001",
+        "name": "Mela road trace 001",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 4680.38,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-002",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.87973735260509,
+            25.491275967266535
+          ],
+          [
+            81.88541400421204,
+            25.492054491363838
+          ],
+          [
+            81.88868178083122,
+            25.48995787303764
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-002",
+        "name": "Mela road trace 002",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 979.31,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-003",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88067956577805,
+            25.48404645705515
+          ],
+          [
+            81.88595398762037,
+            25.48428559313104
+          ],
+          [
+            81.88982772470693,
+            25.483449464674255
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-003",
+        "name": "Mela road trace 003",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 931.1,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-004",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88261642018335,
+            25.476810956548587
+          ],
+          [
+            81.88977056613949,
+            25.475684170128737
+          ],
+          [
+            81.89453190035265,
+            25.4738492584403
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-004",
+        "name": "Mela road trace 004",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1249.93,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-005",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88166848253992,
+            25.46959278709103
+          ],
+          [
+            81.88812727114578,
+            25.468650860593993
+          ],
+          [
+            81.89497980601591,
+            25.467164461928476
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-005",
+        "name": "Mela road trace 005",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1365.96,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-006",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.87973130271565,
+            25.46310292229441
+          ],
+          [
+            81.88638141087985,
+            25.46116664933781
+          ],
+          [
+            81.89094597651089,
+            25.4596942427427
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-006",
+        "name": "Mela road trace 006",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1189.17,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-007",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90361119677263,
+            25.490769636987782
+          ],
+          [
+            81.906161238395,
+            25.485877823902022
+          ],
+          [
+            81.90771495508692,
+            25.48081153961132
+          ],
+          [
+            81.90866832054117,
+            25.475297467646982
+          ],
+          [
+            81.90722829043942,
+            25.468985520158242
+          ],
+          [
+            81.90569233937816,
+            25.463125632444207
+          ],
+          [
+            81.9031572548795,
+            25.45663978332499
+          ],
+          [
+            81.90132533699537,
+            25.451052547863018
+          ],
+          [
+            81.89939146517129,
+            25.44510471257774
+          ],
+          [
+            81.89765734676311,
+            25.43924592102982
+          ],
+          [
+            81.89612094479732,
+            25.433205297802214
+          ],
+          [
+            81.89667814109139,
+            25.427874278566197
+          ],
+          [
+            81.89902434815795,
+            25.422442022122304
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-007",
+        "name": "Mela road trace 007",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 7873.11,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-008",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.91235222143463,
+            25.488909571807966
+          ],
+          [
+            81.9145979639175,
+            25.483297129598533
+          ],
+          [
+            81.91375162698233,
+            25.476620368403537
+          ],
+          [
+            81.91191616720626,
+            25.470672127211323
+          ],
+          [
+            81.90997803745927,
+            25.464273000969794
+          ],
+          [
+            81.90764432414716,
+            25.458147179951258
+          ],
+          [
+            81.90550841118119,
+            25.451839495655626
+          ],
+          [
+            81.90337609948826,
+            25.445983239856936
+          ],
+          [
+            81.90144221701351,
+            25.440035428064355
+          ],
+          [
+            81.89970673954592,
+            25.43399606858801
+          ],
+          [
+            81.8988676850218,
+            25.42813179621286
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-008",
+        "name": "Mela road trace 008",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 6989.37,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-009",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90336834957282,
+            25.484901773184323
+          ],
+          [
+            81.91042802742922,
+            25.484406640501142
+          ],
+          [
+            81.91462666418599,
+            25.48708945386157
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-009",
+        "name": "Mela road trace 009",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1227.9,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-010",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90430757592148,
+            25.474807528767446
+          ],
+          [
+            81.91541532222543,
+            25.472998086185623
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-010",
+        "name": "Mela road trace 010",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1134.5,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-011",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              81.90096590540135,
+              25.46956588675931
+            ],
+            [
+              81.90148183312841,
+              25.4695009407171
+            ]
+          ],
+          [
+            [
+              81.9036040957425,
+              25.469233766203068
+            ],
+            [
+              81.91378559427997,
+              25.467951561995324
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-011",
+        "name": "Mela road trace 011",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1085.75,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-012",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              81.89953978178214,
+              25.465059727427466
+            ],
+            [
+              81.90001687828052,
+              25.46501243577765
+            ]
+          ],
+          [
+            [
+              81.90224332300416,
+              25.464791721034985
+            ],
+            [
+              81.91216281718506,
+              25.463807950183412
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-012",
+        "name": "Mela road trace 012",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1051.47,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-013",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8989198796615,
+            25.45927481611494
+          ],
+          [
+            81.91033036762747,
+            25.45822084687299
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-013",
+        "name": "Mela road trace 013",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1153.16,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-014",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89336693667393,
+            25.45469506001561
+          ],
+          [
+            81.90850080630062,
+            25.452994887785394
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-014",
+        "name": "Mela road trace 014",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1533.26,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-015",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88997912084656,
+            25.44994787510928
+          ],
+          [
+            81.90667479113267,
+            25.448220368349816
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-015",
+        "name": "Mela road trace 015",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1689.62,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-016",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.889339956815,
+            25.444172640313212
+          ],
+          [
+            81.89251959661581,
+            25.44379215758497
+          ],
+          [
+            81.90484690120083,
+            25.44317493660791
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-016",
+        "name": "Mela road trace 016",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1563.94,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-017",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88880229292613,
+            25.438667678894387
+          ],
+          [
+            81.89078649307429,
+            25.4380235689699
+          ],
+          [
+            81.90321939996343,
+            25.438308840341293
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-017",
+        "name": "Mela road trace 017",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1462.54,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-018",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88998341090462,
+            25.434294586796913
+          ],
+          [
+            81.90149192557789,
+            25.433353035103135
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-018",
+        "name": "Mela road trace 018",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1162.01,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-019",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8903190403386,
+            25.42854503939399
+          ],
+          [
+            81.90006021685308,
+            25.428034197380263
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-019",
+        "name": "Mela road trace 019",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 981.27,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-020",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88414840123066,
+            25.455039817821156
+          ],
+          [
+            81.88442037556143,
+            25.451426237638074
+          ],
+          [
+            81.88438079430286,
+            25.446008559575546
+          ],
+          [
+            81.88405277992848,
+            25.44194709437498
+          ],
+          [
+            81.88432539970286,
+            25.43842380347738
+          ],
+          [
+            81.88410015028093,
+            25.434813209089434
+          ],
+          [
+            81.88427398187267,
+            25.431380808558664
+          ],
+          [
+            81.8858339385952,
+            25.427127366766666
+          ],
+          [
+            81.88622572737786,
+            25.426312314692503
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-020",
+        "name": "Mela road trace 020",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 3219.28,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-021",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.86155364789603,
+            25.438649430734422
+          ],
+          [
+            81.86712116923015,
+            25.438436071990598
+          ],
+          [
+            81.8732846684221,
+            25.438128661701406
+          ],
+          [
+            81.87766209680274,
+            25.43837346874505
+          ],
+          [
+            81.88193615079349,
+            25.438076973012336
+          ],
+          [
+            81.88432539970286,
+            25.43842380347738
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-021",
+        "name": "Mela road trace 021",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 2296.46,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-022",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.87913079516093,
+            25.435204226896584
+          ],
+          [
+            81.88130599010114,
+            25.433475515810173
+          ],
+          [
+            81.88387887048661,
+            25.43174438139832
+          ],
+          [
+            81.88427398187267,
+            25.431380808558664
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-022",
+        "name": "Mela road trace 022",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 669.28,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-023",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88027552006677,
+            25.428515255305577
+          ],
+          [
+            81.88305639121104,
+            25.42804707423661
+          ],
+          [
+            81.8858339385952,
+            25.427127366766666
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-023",
+        "name": "Mela road trace 023",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 581.75,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-024",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.84740517456278,
+            25.420581555875845
+          ],
+          [
+            81.85487378529344,
+            25.422163690833308
+          ],
+          [
+            81.86223800938237,
+            25.42302366039596
+          ],
+          [
+            81.86850340994114,
+            25.42316736370296
+          ],
+          [
+            81.8752600990685,
+            25.422495182660114
+          ],
+          [
+            81.88081699485687,
+            25.42092689843967
+          ],
+          [
+            81.88398552323116,
+            25.419101894654396
+          ],
+          [
+            81.88694849846323,
+            25.416375075138713
+          ],
+          [
+            81.88931282188936,
+            25.41338092388697
+          ],
+          [
+            81.89255983952899,
+            25.408755998055092
+          ],
+          [
+            81.89551303751438,
+            25.40476488542424
+          ],
+          [
+            81.89876293901463,
+            25.400591304334334
+          ],
+          [
+            81.90241226377411,
+            25.396686100280927
+          ],
+          [
+            81.90684849316561,
+            25.391692371702707
+          ],
+          [
+            81.90842475557771,
+            25.389786367358962
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-024",
+        "name": "Mela road trace 024",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 7874.87,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-025",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.87980239568854,
+            25.418133706017375
+          ],
+          [
+            81.88081699485687,
+            25.42092689843967
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-025",
+        "name": "Mela road trace 025",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 325.73,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-026",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88940495771098,
+            25.412387077881398
+          ],
+          [
+            81.88931282188936,
+            25.41338092388697
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-026",
+        "name": "Mela road trace 026",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 110.45,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-027",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89726509558949,
+            25.399697461737535
+          ],
+          [
+            81.89876293901463,
+            25.400591304334334
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-027",
+        "name": "Mela road trace 027",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 180.28,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mela-road-028",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.9045521177703,
+            25.390352027345017
+          ],
+          [
+            81.90684849316561,
+            25.391692371702707
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mela-road-028",
+        "name": "Mela road trace 028",
+        "type": "road",
+        "kind": "mela_road",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 274.59,
+        "approx_width_m": 5.5,
+        "width_source": "google_maps_measured",
+        "width_confidence": "medium",
+        "method": "Visual digitization of main light linear routes in 10 m RGB image; water-mask portions removed; route centreline approximate. Width: chequered-plate mela roads measured on Google Maps satellite (Kila Ghat Rd 5.4 m, Sangam Marg ~5 m, Annapurna Rd ~5.5 m)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "type": "FeatureCollection",
+  "name": "stations_normalized",
+  "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+  "licence": "ODbL-1.0",
+  "bbox": [
+    81.78,
+    25.33,
+    81.98,
+    25.53
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "id": "station-naini",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8602035,
+          25.393729
+        ]
+      },
+      "properties": {
+        "id": "station-naini",
+        "name": "Naini Junction",
+        "osm_type": "node",
+        "osm_id": 312613037,
+        "osm_url": "https://www.openstreetmap.org/node/312613037",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "internet_access": "no",
+          "name": "Naini Junction",
+          "network": "IR",
+          "operator": "NCR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NYN",
+          "train": "yes",
+          "wikidata": "Q12436173"
+        },
+        "aliases": [],
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station-prayag",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8674698,
+          25.4690487
+        ]
+      },
+      "properties": {
+        "id": "station-prayag",
+        "name": "Prayag Junction",
+        "osm_type": "node",
+        "osm_id": 312624621,
+        "osm_url": "https://www.openstreetmap.org/node/312624621",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "name": "Prayag Junction",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PRG",
+          "wikidata": "Q39046775",
+          "wikimedia_commons": "File:Prayag_Junction_Railway_Station.jpg",
+          "wikipedia": "Prayag Junction railway station"
+        },
+        "aliases": [],
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station-rambagh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8492933,
+          25.4396813
+        ]
+      },
+      "properties": {
+        "id": "station-rambagh",
+        "name": "Prayagraj Rambagh (Allahabad City)",
+        "osm_type": "node",
+        "osm_id": 316602923,
+        "osm_url": "https://www.openstreetmap.org/node/316602923",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "alt_name": "Rambagh Railway Station;Prayagraj Rambag Railway station",
+          "alt_ref": "ALY",
+          "name": "Allahabad City",
+          "name:hi": "इलाहाबाद सिटी",
+          "name:ur": "الله أباد شہر",
+          "network": "IR",
+          "operator": "NER",
+          "platforms": "3",
+          "railway": "station",
+          "ref": "PRRB",
+          "wikidata": "Q24933853",
+          "wikipedia": "en:Allahabad City railway station"
+        },
+        "aliases": [
+          "Allahabad City"
+        ],
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station-subedarganj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7901859,
+          25.4394435
+        ]
+      },
+      "properties": {
+        "id": "station-subedarganj",
+        "name": "Subedarganj",
+        "osm_type": "node",
+        "osm_id": 2087246860,
+        "osm_url": "https://www.openstreetmap.org/node/2087246860",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "name": "Subedarganj",
+          "network": "IR",
+          "operator": "NCR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SFG",
+          "wikidata": "Q12458271",
+          "wikipedia": "en:Subedarganj railway station"
+        },
+        "aliases": [
+          "SUBEDARGANJ RAILWAY STATION"
+        ],
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station-prayagraj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.825958,
+          25.4454322
+        ]
+      },
+      "properties": {
+        "id": "station-prayagraj",
+        "name": "Prayagraj Junction",
+        "osm_type": "node",
+        "osm_id": 2669094327,
+        "osm_url": "https://www.openstreetmap.org/node/2669094327",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "name": "Prayagraj Junction",
+          "name:hi": "प्रयागराज जंक्शन",
+          "name:ur": "پریاگراج جنکشن",
+          "operator": "NCR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PRYJ",
+          "wikidata": "Q15179443",
+          "wikipedia": "en:Allahabad Junction railway station"
+        },
+        "aliases": [],
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station-chheoki",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8671292,
+          25.3770586
+        ]
+      },
+      "properties": {
+        "id": "station-chheoki",
+        "name": "Chheoki Junction",
+        "osm_type": "node",
+        "osm_id": 4871944927,
+        "osm_url": "https://www.openstreetmap.org/node/4871944927",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "historic:name": "Chheoki Junction",
+          "historic:ref": "COI",
+          "internet_access": "no",
+          "name": "Allahabad Chheoki Junction",
+          "network": "IR",
+          "old_ref": "ACOI",
+          "operator": "NCR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PCOI",
+          "train": "yes",
+          "wikidata": "Q18111123",
+          "wikipedia": "en:Allahabad Chheoki Junction railway station"
+        },
+        "aliases": [
+          "Allahabad Chheoki Junction"
+        ],
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station-sangam-station",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8805617,
+          25.4444324
+        ]
+      },
+      "properties": {
+        "id": "station-sangam-station",
+        "name": "Prayagraj Sangam",
+        "osm_type": "node",
+        "osm_id": 6589820436,
+        "osm_url": "https://www.openstreetmap.org/node/6589820436",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "name": "Prayagraj Sangam",
+          "name:ur": "پریاگ گھاٹ ٹرمینل",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PYGS",
+          "wikidata": "Q104616746"
+        },
+        "aliases": [
+          "Daraganj"
+        ],
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station-jhunsi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9161439,
+          25.4312509
+        ]
+      },
+      "properties": {
+        "id": "station-jhunsi",
+        "name": "Jhusi (Jhunsi)",
+        "osm_type": "node",
+        "osm_id": 7596025213,
+        "osm_url": "https://www.openstreetmap.org/node/7596025213",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "name": "Jhusi",
+          "network": "IR",
+          "operator": "NER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JI",
+          "wheelchair": "yes",
+          "wikidata": "Q63355047"
+        },
+        "aliases": [],
+        "type": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station-phaphamau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8671297,
+          25.5256563
+        ]
+      },
+      "properties": {
+        "id": "station-phaphamau",
+        "name": "Phaphamau Junction",
+        "osm_type": "node",
+        "osm_id": 7596470088,
+        "osm_url": "https://www.openstreetmap.org/node/7596470088",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "name": "Phaphamau Junction",
+          "name:hi": "फाफामऊ जंक्शन",
+          "network": "Indian Railways",
+          "operator": "Northern Railway",
+          "platforms": "3",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PFM",
+          "wikidata": "Q63357566"
+        },
+        "aliases": [],
+        "type": "station"
+      }
+    }
+  ]
+}

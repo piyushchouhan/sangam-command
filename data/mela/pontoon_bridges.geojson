@@ -1,0 +1,918 @@
+{
+  "type": "FeatureCollection",
+  "inventory_target": 30,
+  "observed_count": 27,
+  "unresolved_count": 3,
+  "legacy_ids_note": "crossing-01\u202613 remain separate unresolved TOI references unless their identity can be verified; no rank-based automatic reassignment.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "pontoon-01",
+      "properties": {
+        "id": "pontoon-01",
+        "name": "Observed temporary crossing 01",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 295.47,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90119310182848,
+            25.47335701086903
+          ],
+          [
+            81.90387070915048,
+            25.47225696645108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-02",
+      "properties": {
+        "id": "pontoon-02",
+        "name": "Observed temporary crossing 02",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 420.59,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89916474805119,
+            25.468132162891884
+          ],
+          [
+            81.90283152332465,
+            25.46630369060593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-03",
+      "properties": {
+        "id": "pontoon-03",
+        "name": "Observed temporary crossing 03",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 512.45,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89604516711924,
+            25.463275137862432
+          ],
+          [
+            81.90090873989043,
+            25.461890895287695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-04",
+      "properties": {
+        "id": "pontoon-04",
+        "name": "Observed temporary crossing 04",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 515.46,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89564330603353,
+            25.462735800870373
+          ],
+          [
+            81.90050619027986,
+            25.46126127789296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-05",
+      "properties": {
+        "id": "pontoon-05",
+        "name": "Observed temporary crossing 05",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 690.8,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.890449342476,
+            25.459787554381478
+          ],
+          [
+            81.89679736263531,
+            25.45740115634203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-06",
+      "properties": {
+        "id": "pontoon-06",
+        "name": "Observed temporary crossing 06",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 284.25,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88485251629606,
+            25.45611915820579
+          ],
+          [
+            81.88702865474849,
+            25.454480653868462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-07",
+      "properties": {
+        "id": "pontoon-07",
+        "name": "Observed temporary crossing 07",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 531.51,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88561777646274,
+            25.451960811906467
+          ],
+          [
+            81.89088614867623,
+            25.451567747681555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-08",
+      "properties": {
+        "id": "pontoon-08",
+        "name": "Observed temporary crossing 08",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 394.59,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88518034446781,
+            25.446545534262007
+          ],
+          [
+            81.88905487672858,
+            25.445980337904732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-09",
+      "properties": {
+        "id": "pontoon-09",
+        "name": "Observed temporary crossing 09",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 384.71,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88517704348348,
+            25.446094061037865
+          ],
+          [
+            81.88895211326243,
+            25.445529467118096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-10",
+      "properties": {
+        "id": "pontoon-10",
+        "name": "Observed temporary crossing 10",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 360.56,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88486681852903,
+            25.444470555023837
+          ],
+          [
+            81.88824007801887,
+            25.443366608992065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-11",
+      "properties": {
+        "id": "pontoon-11",
+        "name": "Observed temporary crossing 11",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 420.59,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88444858258518,
+            25.44167381541029
+          ],
+          [
+            81.8884177710773,
+            25.44047597817246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-12",
+      "properties": {
+        "id": "pontoon-12",
+        "name": "Observed temporary crossing 12",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 468.19,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88579854446473,
+            25.43588656299446
+          ],
+          [
+            81.89016329666211,
+            25.434415400145703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-13",
+      "properties": {
+        "id": "pontoon-13",
+        "name": "Observed temporary crossing 13",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 452.22,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88579326177104,
+            25.43516420489523
+          ],
+          [
+            81.89005987684642,
+            25.433874234602815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-14",
+      "properties": {
+        "id": "pontoon-14",
+        "name": "Observed temporary crossing 14",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 436.58,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88588741838011,
+            25.434441247112083
+          ],
+          [
+            81.88995446792784,
+            25.433062184855956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-15",
+      "properties": {
+        "id": "pontoon-15",
+        "name": "Observed temporary crossing 15",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 427.2,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88588213549967,
+            25.433718888888162
+          ],
+          [
+            81.8898497238599,
+            25.432340429609393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-16",
+      "properties": {
+        "id": "pontoon-16",
+        "name": "Observed temporary crossing 16",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 408.53,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88597629073327,
+            25.432995930951872
+          ],
+          [
+            81.8897449811782,
+            25.431618674184488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-17",
+      "properties": {
+        "id": "pontoon-17",
+        "name": "Observed temporary crossing 17",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 392.17,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88606978453801,
+            25.432182678118863
+          ],
+          [
+            81.88974033910876,
+            25.430986611162105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-18",
+      "properties": {
+        "id": "pontoon-18",
+        "name": "Observed temporary crossing 18",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 399.25,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88616261677738,
+            25.431279130366033
+          ],
+          [
+            81.88983181690658,
+            25.42990247224236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-19",
+      "properties": {
+        "id": "pontoon-19",
+        "name": "Observed temporary crossing 19",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 404.97,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88625544784915,
+            25.43037558248189
+          ],
+          [
+            81.89002471763114,
+            25.42908861508316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-20",
+      "properties": {
+        "id": "pontoon-20",
+        "name": "Observed temporary crossing 20",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 414.37,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8863482777534,
+            25.42947203446646
+          ],
+          [
+            81.89021695251938,
+            25.42818446290786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-21",
+      "properties": {
+        "id": "pontoon-21",
+        "name": "Observed temporary crossing 21",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 414.37,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.88644176710282,
+            25.428658781151277
+          ],
+          [
+            81.8903104151071,
+            25.427371207715357
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-22",
+      "properties": {
+        "id": "pontoon-22",
+        "name": "Observed temporary crossing 22",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 926.55,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8919024353711,
+            25.4139973263213
+          ],
+          [
+            81.89831027629614,
+            25.420008323370734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-23",
+      "properties": {
+        "id": "pontoon-23",
+        "name": "Observed temporary crossing 23",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 972.47,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89554770801699,
+            25.409460218761737
+          ],
+          [
+            81.9039318204118,
+            25.413833544491283
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-24",
+      "properties": {
+        "id": "pontoon-24",
+        "name": "Observed temporary crossing 24",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 930.48,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89791502781378,
+            25.406917409896227
+          ],
+          [
+            81.90658649960547,
+            25.409844052570563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-25",
+      "properties": {
+        "id": "pontoon-25",
+        "name": "Observed temporary crossing 25",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 789.24,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90136305455243,
+            25.402652264122846
+          ],
+          [
+            81.90864045801725,
+            25.405316435629103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-26",
+      "properties": {
+        "id": "pontoon-26",
+        "name": "Observed temporary crossing 26",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 697.71,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.90560476516016,
+            25.398201556896073
+          ],
+          [
+            81.91178982255325,
+            25.401052898578094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-27",
+      "properties": {
+        "id": "pontoon-27",
+        "name": "Observed temporary crossing 27",
+        "kind": "pontoon",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "length_m": 1021.76,
+        "approx_width_m": 5.0,
+        "width_source": "estimate",
+        "width_confidence": "low",
+        "reference_date": "2025-01-27",
+        "sentinel_scene": "S2B_44RNP_20250127_0_L2A",
+        "position_uncertainty_m": 20,
+        "note": "Visible linear crossing interpreted from 10 m RGB. Official bridge name, type and operational status unverified. This is an observation ID, not the official bridge number."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.89143737476846,
+            25.485877740314915
+          ],
+          [
+            81.90158848517379,
+            25.48635748925133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-28",
+      "properties": {
+        "id": "pontoon-28",
+        "name": "Unresolved temporary bridge inventory slot 28",
+        "kind": "pontoon",
+        "source": "toi_reference",
+        "confidence": "low",
+        "length_m": null,
+        "approx_width_m": null,
+        "note": "User-supplied inventory total is 30. No location asserted: not confidently distinguishable within supplied imagery. Excluded from routing."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-29",
+      "properties": {
+        "id": "pontoon-29",
+        "name": "Unresolved temporary bridge inventory slot 29",
+        "kind": "pontoon",
+        "source": "toi_reference",
+        "confidence": "low",
+        "length_m": null,
+        "approx_width_m": null,
+        "note": "User-supplied inventory total is 30. No location asserted: not confidently distinguishable within supplied imagery. Excluded from routing."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "pontoon-30",
+      "properties": {
+        "id": "pontoon-30",
+        "name": "Unresolved temporary bridge inventory slot 30",
+        "kind": "pontoon",
+        "source": "toi_reference",
+        "confidence": "low",
+        "length_m": null,
+        "approx_width_m": null,
+        "note": "User-supplied inventory total is 30. No location asserted: not confidently distinguishable within supplied imagery. Excluded from routing."
+      },
+      "geometry": null
+    }
+  ]
+}

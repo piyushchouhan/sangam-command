@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "landmark-sangam",
+      "properties": {
+        "id": "landmark-sangam",
+        "name": "Sangam nose",
+        "kind": "landmark",
+        "source": "traced:sentinel2-2025-01-27",
+        "confidence": "medium",
+        "position_uncertainty_m": 20,
+        "note": "Dry-land tip of the west confluence bank observed 2025-01-27; not centre of water confluence."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.88612695526959,
+          25.426403209222
+        ]
+      }
+    }
+  ]
+}

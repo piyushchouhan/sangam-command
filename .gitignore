@@ -1,0 +1,19 @@
+# User-provided imagery and local copyright reference: never push or deploy.
+data/*.tif
+data/*_preview.png
+data/compare_*.png
+data/sentinel2/*
+!data/sentinel2/manifest.json
+local-reference/
+.venv/
+__pycache__/
+
+# Large generated simulation exports are kept locally and in the downloadable ZIP.
+data/network/graph.graphml
+data/network/nodes.geojson
+data/network/edges.geojson
+
+# Local hosting config
+.openai/
+.DS_Store
+qa/

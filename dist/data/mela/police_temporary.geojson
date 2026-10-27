@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "name": "Police (mela, temporary)",
+  "source": "toi_reference",
+  "confidence": "low",
+  "description": "Awaiting official UP Police / Mela Authority locations.",
+  "features": []
+}

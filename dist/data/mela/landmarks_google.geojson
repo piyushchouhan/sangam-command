@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "name": "landmarks_google",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "landmark-beni",
+      "properties": {
+        "id": "landmark-beni",
+        "name": "Shri Beni Madhav",
+        "type": "landmark",
+        "source": "google_maps",
+        "confidence": "medium",
+        "google_name": "Shri Veni Madhav Mandir, Daraganj",
+        "plus_code": null,
+        "looked_up": "2026-10-26",
+        "note": "Position from Google Maps; not in OSM or Wikidata."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8833726,
+          25.445775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark-samudra",
+      "properties": {
+        "id": "landmark-samudra",
+        "name": "Samudra Koop",
+        "type": "landmark",
+        "source": "google_maps",
+        "confidence": "medium",
+        "google_name": "Samudra Koop, Jhusi",
+        "plus_code": null,
+        "looked_up": "2026-10-26",
+        "note": "Position from Google Maps; not in OSM or Wikidata."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.900071,
+          25.4256279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark-aadi",
+      "properties": {
+        "id": "landmark-aadi",
+        "name": "Aadi Veni Mahadev",
+        "type": "landmark",
+        "source": "google_maps",
+        "confidence": "medium",
+        "google_name": "Shri Adi Veni Madhav Temple (Dwadash Madhav), Arail",
+        "plus_code": null,
+        "looked_up": "2026-10-26",
+        "note": "Position from Google Maps; not in OSM or Wikidata."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.881436,
+          25.4199448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark-chakra",
+      "properties": {
+        "id": "landmark-chakra",
+        "name": "Chakra Madhav",
+        "type": "landmark",
+        "source": "google_maps",
+        "confidence": "medium",
+        "google_name": "Shri Chakra Madhav Mandir (Dwadash Madhav), Arail",
+        "plus_code": "CV6Q+972",
+        "looked_up": "2026-10-26",
+        "note": "Position from Google Maps; not in OSM or Wikidata."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.888140625,
+          25.4108875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark-shankh",
+      "properties": {
+        "id": "landmark-shankh",
+        "name": "Shankh Madhav",
+        "type": "landmark",
+        "source": "google_maps",
+        "confidence": "medium",
+        "google_name": "Shri Shankh Madhav Mandir, Chhatnag Road, Jhusi",
+        "plus_code": "CW45+R5W",
+        "looked_up": "2026-10-26",
+        "note": "Position from Google Maps; not in OSM or Wikidata."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.907953125,
+          25.4071125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark-someshwar",
+      "properties": {
+        "id": "landmark-someshwar",
+        "name": "Someshwar Mahadev",
+        "type": "landmark",
+        "source": "google_maps",
+        "confidence": "medium",
+        "google_name": "Shri Someshwar Mahadev Mandir, Arail Ghat",
+        "plus_code": "CV4R+R9V",
+        "looked_up": "2026-10-26",
+        "note": "Position from Google Maps; not in OSM or Wikidata."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.890921875,
+          25.4071125
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "name": "temples_matched",
+  "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+  "licence": "ODbL-1.0",
+  "bbox": [
+    81.78,
+    25.33,
+    81.98,
+    25.53
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "id": "landmark-hanuman",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.879161,
+          25.4335836
+        ]
+      },
+      "properties": {
+        "id": "landmark-hanuman",
+        "name": "Bade Hanuman Ji",
+        "osm_type": "node",
+        "osm_id": 8911046742,
+        "osm_url": "https://www.openstreetmap.org/node/8911046742",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "addr:city": "Prayagraj",
+          "addr:district": "Uttar Pradesh",
+          "addr:postcode": "211005",
+          "addr:street": "Allahabad fort",
+          "amenity": "place_of_worship",
+          "name": "Shri Bade Hanuman Ji Mandir",
+          "religion": "hindu",
+          "service_times": "Daily, 4:30 am–11 pm",
+          "source": "Shri Bade Hanuman Ji Mandir"
+        },
+        "type": "landmark"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark-shankar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8795208,
+          25.4351846
+        ]
+      },
+      "properties": {
+        "id": "landmark-shankar",
+        "name": "Shankar Vimana Mandapam",
+        "osm_type": "node",
+        "osm_id": 8911055853,
+        "osm_url": "https://www.openstreetmap.org/node/8911055853",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "addr:city": "Prayagraj",
+          "addr:district": "Uttar Pradesh",
+          "addr:housenumber": "CVPH+3Q7",
+          "addr:postcode": "211006",
+          "addr:street": "Triveni Road, Road, Beni bandh, Himmat Ganj, Daraganj",
+          "amenity": "place_of_worship",
+          "name": "Shri Adi Shankar Vimana Mandapam",
+          "religion": "hindu",
+          "service_times": "Daily, 7 am–7 pm",
+          "source": "Shri Adi Shankar Vimana Mandapam"
+        },
+        "type": "landmark"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark-nagvasuki",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8834736,
+          25.4567203
+        ]
+      },
+      "properties": {
+        "id": "landmark-nagvasuki",
+        "name": "Nagvasuki",
+        "osm_type": "node",
+        "osm_id": 11694433676,
+        "osm_url": "https://www.openstreetmap.org/node/11694433676",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "place_of_worship",
+          "name": "Nagvasuki temple",
+          "religion": "hindu"
+        },
+        "type": "landmark"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark-mankameshwar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.86632719238693,
+          25.4304477
+        ]
+      },
+      "properties": {
+        "id": "landmark-mankameshwar",
+        "name": "Mankameshwar",
+        "osm_type": "way",
+        "osm_id": 621477594,
+        "osm_url": "https://www.openstreetmap.org/way/621477594",
+        "source": "osm",
+        "confidence": "high",
+        "fetched_at": "2026-10-25T14:52:57.462143+00:00",
+        "tags": {
+          "amenity": "place_of_worship",
+          "denomination": "hindu",
+          "name": "Mankameshwar Temple",
+          "religion": "hindu",
+          "service_times": "24x7"
+        },
+        "node_ids": [
+          5870955041,
+          5870955042,
+          5870955043,
+          5870955044,
+          5870955045,
+          5870955041
+        ],
+        "type": "landmark"
+      }
+    }
+  ]
+}
